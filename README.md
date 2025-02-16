@@ -38,6 +38,8 @@ npm install
 npm run dev
 ```
 
+## 뽀모도로 사용해보기
+https://pomodoro-chi-nine.vercel.app/
 ## 📸 스크린샷
 ### 🔹 랜딩 페이지
 ![image](https://github.com/user-attachments/assets/16df770d-c9f0-4855-ba0a-88511e9dd5cd)
