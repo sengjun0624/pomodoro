@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pomodoro Timer
 
 
@@ -42,7 +43,4 @@ npm run dev
 ![image](https://github.com/user-attachments/assets/16df770d-c9f0-4855-ba0a-88511e9dd5cd)
 ### 🔹 타이머 페이지
 ![image](https://github.com/user-attachments/assets/705f8e68-c497-4d3a-abb6-4e38ec42944b)
-
-
-
 
